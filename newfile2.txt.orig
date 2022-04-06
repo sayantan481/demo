@@ -1,0 +1,8 @@
+This is a new file
+<<<<<<< HEAD
+i added second line
+I add the second line
+=======
+I add the second line
+i am adding third line
+>>>>>>> updates

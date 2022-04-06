@@ -1,3 +1,6 @@
 This is a new file
+I add the second line
+I add the second line no longer
+i am adding third line
 i added second line
 I add the second line
